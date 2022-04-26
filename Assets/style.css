@@ -1,0 +1,30 @@
+body{
+   background: #D0E4F5 none no-repeat scroll 0 0;; 
+}
+
+#header{
+    border: 6px double #1C6EA4;
+    text-align: center;
+}
+
+#time-section{
+    margin: auto;
+    font-size: xx-large;
+    width: 250px;
+    border: 6px double #1C6EA4;
+}
+
+.card{
+    margin: auto;
+    font-size: xx-large;
+    margin-top: 20px;
+    border: 6px double #1C6EA4;
+}
+
+#quizOverD{
+    margin: auto;
+    width: 250px;
+    margin-top: 20px;
+    border: 6px double #1C6EA4;
+    
+}
